@@ -56,7 +56,7 @@ EVENT PAGE
     <div style="text-align: left; font-size: 16px; color: #000; margin: 20px; line-height: 1.8;">9. HOCKEY</div>
     <div style="text-align: left; font-size: 16px; color: #000; margin: 20px; line-height: 1.8;">10. TENNIS</div>
     <img src="sports_image.png" alt="Sports Items" style="width: 150px; height: auto; margin-top: 20px;">
-  </div>
+</div>
 ```
 REGISTERATION PAGE
 ```
@@ -72,7 +72,7 @@ REGISTERATION PAGE
         <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Email ID</div>
         <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Event to Register</div>
         <div style="margin-top: 20px; background-color: #ff3366; color: #fff; padding: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; text-align: center;">REGISTER</div>
-</div>
+  </div>
 ```
 CONTACT US PAGE
 ```

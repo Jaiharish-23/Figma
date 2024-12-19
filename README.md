@@ -31,7 +31,6 @@ Figma
 # CODE:
 HOME PAGE
 ```
-
 <div style="margin: 0; font-family: Arial, sans-serif; text-align: center; background-image: url(c:/Users/admin/Downloads/istockphoto-166679114-612x612.jpg);">
     <div style="width: 100%; max-width: 400px; margin: 20px auto; background: linear-gradient(to bottom, #e6f7ff, #ffffff); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px;">
     <img style="margin-bottom: 10px; width: 250; height:25;" src="c:\Users\admin\Downloads\saveetha_logo.png" alt="Saveetha Logo"><BR>
@@ -77,6 +76,14 @@ REGISTERATION PAGE
 ```
 CONTACT US PAGE
 ```
+<div style="width: 390px; margin: 20px auto; font-family: Arial, sans-serif; text-align: center; border: 1px solid #ddd; border-radius: 20px; overflow: hidden; background-image: url(c:/Users/admin/Downloads/istockphoto-166679114-612x612.jpg); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="c:\Users\admin\Downloads\saveetha_logo.png" alt="Header Logo" style="width: 100%; border-bottom: 1px solid #ddd;">
+    <div style="font-size: 32px; color: #000; font-weight: bold; margin-bottom: 40px;  box-sizing: border-box; margin-top: 150px;">THANK YOU</div>
+    <div style="font-size: 18px; color: #444; margin-bottom: 40px;">We are all eagerly waiting<br> for your participation <br> the sports event</div>
+    <div style="font-size: 20px; font-weight: bold; color: #00c700; margin-top: 200px;">Contact Us</div>
+    <div style="font-size: 16px; color: #555; margin-bottom: 40px;">Email<br>SaveethaEngineeringCollege@gmail.com</div>
+    <div style="font-size: 16px; color: #555; ">Phone<br>8249763553<br>9878964646</div>
+</div>
 ```
 # OUTPUT:
 ![Screenshot (260)](https://github.com/user-attachments/assets/2bc06166-8b49-49a3-ba1c-85c1d7a90d90)

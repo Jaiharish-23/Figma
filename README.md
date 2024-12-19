@@ -59,6 +59,21 @@ EVENT PAGE
     <img src="sports_image.png" alt="Sports Items" style="width: 150px; height: auto; margin-top: 20px;">
 </div>
 ```
+REGISTERATION PAGE
+```
+
 # OUTPUT:
+![Screenshot (260)](https://github.com/user-attachments/assets/2bc06166-8b49-49a3-ba1c-85c1d7a90d90)
+![{190E75E9-2402-4A6A-AC90-BF5800D91CA5}](https://github.com/user-attachments/assets/87bcf60c-30e8-4dd0-80f1-0b6177d863ee)
+![{A48FB6A2-87D0-458A-B4E3-6CAA148D62F5}](https://github.com/user-attachments/assets/d3ae9663-4294-45b8-823e-4a78f84c8c12)
+![{E1B926BC-8760-40D0-B0C2-8D97B984FCA9}](https://github.com/user-attachments/assets/2271267e-2ae5-4d3f-84f4-c4ae7e4b712a)
+![{84E36C56-92FE-4420-9BA2-4A2F3EC2910E}](https://github.com/user-attachments/assets/871ada94-a3df-4a01-a41e-9eb5ad99c81f)
+
+
+
+
+
+
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.

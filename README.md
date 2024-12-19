@@ -62,6 +62,22 @@ EVENT PAGE
 REGISTERATION PAGE
 ```
 
+<div style="margin: 0; font-family: Arial, sans-serif; text-align: center;  border: 1px solid #ddd; background-image: url(c:/Users/admin/Downloads/istockphoto-166679114-612x612.jpg); border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px;">
+        <div style="font-size: 20px; font-weight: bold; color: #000; margin-bottom: 20px;">EVENT REGISTRATION FORM</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Full Name</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Age</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Gender</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Register Number</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Department</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Phone Number</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Email ID</div>
+        <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Event to Register</div>
+        <div style="margin-top: 20px; background-color: #ff3366; color: #fff; padding: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; text-align: center;">REGISTER</div>
+</div>
+```
+CONTACT US PAGE
+```
+```
 # OUTPUT:
 ![Screenshot (260)](https://github.com/user-attachments/assets/2bc06166-8b49-49a3-ba1c-85c1d7a90d90)
 ![{190E75E9-2402-4A6A-AC90-BF5800D91CA5}](https://github.com/user-attachments/assets/87bcf60c-30e8-4dd0-80f1-0b6177d863ee)

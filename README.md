@@ -31,8 +31,7 @@ Figma
 # CODE:
 HOME PAGE
 ```
-<div style="margin: 0; font-family: Arial, sans-serif; text-align: center; background-image: url(c:/Users/admin/Downloads/istockphoto-166679114-612x612.jpg);">
-    <div style="width: 100%; max-width: 400px; margin: 20px auto; background: linear-gradient(to bottom, #e6f7ff, #ffffff); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px;">
+<div style="margin: 0; font-family: Arial, sans-serif; text-align: center; width: 100%; max-width: 400px; margin: 20px auto; background: linear-gradient(to bottom, #e6f7ff, #ffffff); border: 1px solid #ddd; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); padding: 20px; background-image: url(c:/Users/admin/Downloads/istockphoto-166679114-612x612.jpg);">
     <img style="margin-bottom: 10px; width: 250; height:25;" src="c:\Users\admin\Downloads\saveetha_logo.png" alt="Saveetha Logo"><BR>
     <img style="margin-bottom: 20px;" src="event_logo.png" alt="Event Logo" style="width: 100px; height: 200;">
     <div style="font-size: 20px; font-weight: bold; color: #000; margin: 10px 0;">SPORTS DAY EVENT</div>

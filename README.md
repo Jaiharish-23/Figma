@@ -56,7 +56,7 @@ EVENT PAGE
     <div style="text-align: left; font-size: 16px; color: #000; margin: 20px; line-height: 1.8;">9. HOCKEY</div>
     <div style="text-align: left; font-size: 16px; color: #000; margin: 20px; line-height: 1.8;">10. TENNIS</div>
     <img src="sports_image.png" alt="Sports Items" style="width: 150px; height: auto; margin-top: 20px;">
-</div>
+  </div>
 ```
 REGISTERATION PAGE
 ```

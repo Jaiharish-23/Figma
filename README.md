@@ -72,7 +72,7 @@ REGISTERATION PAGE
         <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Email ID</div>
         <div style="background-color: #fff; border: 1px solid #ccc; border-radius: 5px; padding: 10px; text-align: left; color: #999; margin-bottom: 15px;">Event to Register</div>
         <div style="margin-top: 20px; background-color: #ff3366; color: #fff; padding: 10px; border-radius: 5px; font-size: 16px; cursor: pointer; text-align: center;">REGISTER</div>
-  </div>
+</div>
 ```
 CONTACT US PAGE
 ```
